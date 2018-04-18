@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TitleBar">
+        <attr name="tb_left_image" format="reference" />
+        <attr name="tb_title_color" format="color" />
+        <attr name="tb_action_text_color" format="color" />
+    </declare-styleable>
+
+</resources>
