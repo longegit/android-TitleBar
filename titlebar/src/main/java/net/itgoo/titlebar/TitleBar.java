@@ -1,4 +1,4 @@
-package com.hbyundu.titlebar;
+package net.itgoo.titlebar;
 
 import android.content.Context;
 import android.content.res.Resources;
